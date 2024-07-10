@@ -1,0 +1,20 @@
+{
+  "title": "Minimal Menu Example",
+  "description": "Minimal Menu Example settings.",
+  "jupyter.lab.menus": {
+    "main": [
+      {
+        "id": "jp-minimal-jlab-menu",
+        "label": "Example Menu",
+        "rank": 80,
+        "items": [
+          {
+            "command": "minimal-jlab-menu:main-menu"
+          }
+        ]
+      }
+    ]
+  },
+  "additionalProperties": false,
+  "type": "object"
+}

@@ -1,0 +1,5 @@
+{
+  "packageManager": "python",
+  "packageName": "minimal_jlab_menu",
+  "uninstallInstructions": "Use your Python package manager (pip, conda, etc.) to uninstall the package minimal_jlab_menu"
+}

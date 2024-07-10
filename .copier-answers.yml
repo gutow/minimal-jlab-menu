@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.3
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: gutow@uwosh.edu
+author_name: Jonathan Gutow
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: minimal-jlab-menu
+project_short_description: Attempt a schema menu using copier template
+python_name: minimal_jlab_menu
+repository: https://github.com/gutow/minimal-jlab-menu.git
+test: true
+
