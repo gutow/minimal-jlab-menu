@@ -98,7 +98,8 @@
     },
     "jupyterlab": {
         "extension": true,
-        "outputDir": "minimal_jlab_menu/labextension"
+        "outputDir": "minimal_jlab_menu/labextension",
+        "schemaDir": "schema"
     },
     "eslintIgnore": [
         "node_modules",
